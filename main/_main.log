@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.2.16)  18 MAR 2023 21:40
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.2.16)  19 MAR 2023 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2853,14 +2853,11 @@ LaTeX Info: Redefining \nameref on input line 80.
 \@outlinefile=\write7
 \openout7 = `_main.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 LaTeX Info: Redefining \microtypecontext on input line 80.
 Package microtype Info: Applying patch `item' on input line 80.
 Package microtype Info: Applying patch `toc' on input line 80.
 Package microtype Info: Applying patch `eqnum' on input line 80.
+
 
 Package microtype Warning: Unable to apply patch `footnote' on input line 80.
 
@@ -2905,9 +2902,27 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into
 your preamble.
  on input line 80.
 
-(../timhieukhoahoc/timhieukhoahoc.tex
+(../quantoan/quantoan.tex
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 13.
+Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=dflt;+pnum;+onu
+m;mapping=tex-text;" at 12.0pt
+ -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
+nd/EBGaramond-Italic.otf
+Package microtype Info: Character `156' is missing
+(microtype)             in font `\TU/EBGaramond(0)/m/it/12'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/it' will be
+(Font)              scaled to size 12.0pt on input line 13.
+Requested font "[EBGaramond-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;
++onum;mapping=tex-text;" at 12.0pt
+ -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
+nd/EBGaramond-BoldItalic.otf
+Package microtype Info: Character `156' is missing
+(microtype)             in font `\TU/EBGaramond(0)/b/it/12'.
+(microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 4.
+ 17.
 
 (C:\Users\iamsi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -2920,7 +2935,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 Requested font "zptmcm7t" at 9.0pt
 Requested font "zptmcm7t" at 7.0pt
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 4.
+ 17.
 
 (C:\Users\iamsi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
@@ -2929,7 +2944,7 @@ Requested font "zptmcm7m" at 12.0pt
 Requested font "zptmcm7m" at 9.0pt
 Requested font "zptmcm7m" at 7.0pt
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 4.
+ 17.
 
 (C:\Users\iamsi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
@@ -2938,7 +2953,7 @@ Requested font "zptmcm7y" at 12.0pt
 Requested font "zptmcm7y" at 9.0pt
 Requested font "zptmcm7y" at 7.0pt
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 4.
+ 17.
 
 (C:\Users\iamsi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
@@ -2946,24 +2961,24 @@ File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 Requested font "zptmcm7v" at 12.0pt
 Requested font "zptmcm7v" at 9.0pt
 Requested font "zptmcm7v" at 7.0pt
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
-.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+7.
 
 (C:\Users\iamsi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
 Requested font "ptmb7t" at 12.0pt
 
 (C:\Users\iamsi\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
 Requested font "ptmb7t" at 9.0pt
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
 Requested font "ptmb7t" at 7.0pt
 Requested font "ptmri7t" at 12.0pt
 Requested font "ptmri7t" at 9.0pt
@@ -2983,7 +2998,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 Requested font "msbm10" at 9.0pt
 Requested font "msbm10" at 7.0pt
 LaTeX Font Info:    Trying to load font information for OMX+yhex on input line 
-4.
+17.
 
 (C:\Users\iamsi\AppData\Local\Programs\MiKTeX\tex/latex/yhmath\omxyhex.fd
 File: OMXyhex.fd 
@@ -2992,8 +3007,8 @@ File: OMXyhex.fd 2013/07/03 v1.1 YH's humble contribution to TeX maths (NP)
 Requested font "yhcmex10" at 12.0pt
 Requested font "yhcmex10" at 9.0pt
 Requested font "yhcmex10" at 7.0pt
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 4.
-
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 17
+.
 
 (C:\Users\iamsi\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -3001,82 +3016,61 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 Requested font "rsfs10" at 12.0pt
 Requested font "rsfs10" at 9.0pt
 Requested font "rsfs7" at 7.0pt
+File: ../quantoan/pic//1.jpg Graphic file (type bmp)
+<../quantoan/pic//1.jpg>
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 4.
+(Font)              scaled to size 10.95pt on input line 25.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
-um;mapping=tex-text;" at 9.0pt
- -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
-nd/EBGaramond-Regular.otf
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 4.
-Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
-um;mapping=tex-text;" at 10.0pt
- -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
-nd/EBGaramond-Regular.otf
-Requested font "zptmcm7t" at 10.0pt
-Requested font "zptmcm7t" at 7.4pt
-Requested font "zptmcm7t" at 6.0pt
-Requested font "zptmcm7m" at 10.0pt
-Requested font "zptmcm7m" at 7.4pt
-Requested font "zptmcm7m" at 6.0pt
-Requested font "zptmcm7y" at 10.0pt
-Requested font "zptmcm7y" at 7.4pt
-Requested font "zptmcm7y" at 6.0pt
-Requested font "zptmcm7v" at 10.0pt
-Requested font "zptmcm7v" at 7.4pt
-Requested font "zptmcm7v" at 6.0pt
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-Requested font "ptmb7t" at 10.0pt
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-Requested font "ptmb7t" at 7.4pt
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-Requested font "ptmb7t" at 6.0pt
-Requested font "ptmri7t" at 10.0pt
-Requested font "ptmri7t" at 7.4pt
-Requested font "ptmri7t" at 6.0pt
-Requested font "msam10" at 10.0pt
-Requested font "msam10" at 7.4pt
-Requested font "msam10" at 6.0pt
-Requested font "msbm10" at 10.0pt
-Requested font "msbm10" at 7.4pt
-Requested font "msbm10" at 6.0pt
-Requested font "yhcmex10" at 10.0pt
-Requested font "yhcmex10" at 7.4pt
-Requested font "yhcmex10" at 6.0pt
-Requested font "rsfs10" at 10.0pt
-Requested font "rsfs5" at 6.0pt
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 7.4pt on input line 4.
-Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
-um;mapping=tex-text;" at 7.4pt
+um;mapping=tex-text;" at 10.95pt
  -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
 nd/EBGaramond-Regular.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 4.
+(Font)              scaled to size 10.95pt on input line 25.
 Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=dflt;+pnum;+onu
-m;mapping=tex-text;" at 10.0pt
+m;mapping=tex-text;" at 10.95pt
  -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
 nd/EBGaramond-Italic.otf
 Package microtype Info: Character `156' is missing
-(microtype)             in font `\TU/EBGaramond(0)/m/it/10'.
+(microtype)             in font `\TU/EBGaramond(0)/m/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 16.
-Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
-mapping=tex-text;" at 12.0pt
- -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
-nd/EBGaramond-Bold.otf
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 1 might be wrong on input line 25.
-
-
-Overfull \vbox (11.62634pt too high) has occurred while \output is active []
-
+Requested font "zptmcm7t" at 10.95pt
+Requested font "zptmcm7t" at 8.0pt
+Requested font "zptmcm7t" at 6.0pt
+Requested font "zptmcm7m" at 10.95pt
+Requested font "zptmcm7m" at 8.0pt
+Requested font "zptmcm7m" at 6.0pt
+Requested font "zptmcm7y" at 10.95pt
+Requested font "zptmcm7y" at 8.0pt
+Requested font "zptmcm7y" at 6.0pt
+Requested font "zptmcm7v" at 10.95pt
+Requested font "zptmcm7v" at 8.0pt
+Requested font "zptmcm7v" at 6.0pt
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+Requested font "ptmb7t" at 10.95pt
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+Requested font "ptmb7t" at 8.0pt
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+Requested font "ptmb7t" at 6.0pt
+Requested font "ptmri7t" at 10.95pt
+Requested font "ptmri7t" at 8.0pt
+Requested font "ptmri7t" at 6.0pt
+Requested font "msam10" at 10.95pt
+Requested font "msam10" at 8.0pt
+Requested font "msam10" at 6.0pt
+Requested font "msbm10" at 10.95pt
+Requested font "msbm10" at 8.0pt
+Requested font "msbm10" at 6.0pt
+Requested font "yhcmex10" at 10.95pt
+Requested font "yhcmex10" at 8.0pt
+Requested font "yhcmex10" at 6.0pt
+Requested font "rsfs10" at 10.95pt
+Requested font "rsfs10" at 8.0pt
+Requested font "rsfs5" at 6.0pt
+File: ../quantoan/pic//4.jpg Graphic file (type bmp)
+<../quantoan/pic//4.jpg>
 
 
 Package xeCJK Warning: Unknown CJK family `\CJKsfdefault' is being ignored.
@@ -3093,249 +3087,52 @@ Package microtype Info: Loading generic protrusion settings for font family
 Requested font "[lmsans8-regular]:mapping=tex-text;" at 8.0pt
  -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lm/lmsan
 s8-regular.otf
-File: ../timhieukhoahoc/pic2//../bannertimhieu.jpg Graphic file (type bmp)
-<../timhieukhoahoc/pic2//../bannertimhieu.jpg>
-File: ../timhieukhoahoc/pic2//../tieude.pdf Graphic file (type pdf)
-<use ../timhieukhoahoc/pic2//../tieude.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
+File: ../quantoan/pic//../bannerquantoan.jpg Graphic file (type bmp)
+<../quantoan/pic//../bannerquantoan.jpg>
+File: ../quantoan/pic//../tieude.pdf Graphic file (type pdf)
+<use ../quantoan/pic//../tieude.pdf>
+File: fquantoan2.pdf Graphic file (type pdf)
+<use fquantoan2.pdf>
+File: fquantoan2.pdf Graphic file (type pdf)
+<use fquantoan2.pdf>
+File: fquantoan2.pdf Graphic file (type pdf)
+<use fquantoan2.pdf>
 [1
 
 ]
-File: ../timhieukhoahoc/pic2//1.jpg Graphic file (type bmp)
-<../timhieukhoahoc/pic2//1.jpg>
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 32.
-Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
-um;mapping=tex-text;" at 10.95pt
- -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
-nd/EBGaramond-Regular.otf
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 32.
-Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=dflt;+pnum;+onu
-m;mapping=tex-text;" at 10.95pt
- -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
-nd/EBGaramond-Italic.otf
-Package microtype Info: Character `156' is missing
-(microtype)             in font `\TU/EBGaramond(0)/m/it/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
-Requested font "zptmcm7t" at 10.95pt
-Requested font "zptmcm7t" at 8.0pt
-Requested font "zptmcm7m" at 10.95pt
-Requested font "zptmcm7m" at 8.0pt
-Requested font "zptmcm7y" at 10.95pt
-Requested font "zptmcm7y" at 8.0pt
-Requested font "zptmcm7v" at 10.95pt
-Requested font "zptmcm7v" at 8.0pt
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
-Requested font "ptmb7t" at 10.95pt
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
-Requested font "ptmb7t" at 8.0pt
-Requested font "ptmri7t" at 10.95pt
-Requested font "ptmri7t" at 8.0pt
-Requested font "msam10" at 10.95pt
-Requested font "msam10" at 8.0pt
-Requested font "msbm10" at 10.95pt
-Requested font "msbm10" at 8.0pt
-Requested font "yhcmex10" at 10.95pt
-Requested font "yhcmex10" at 8.0pt
-Requested font "rsfs10" at 10.95pt
-Requested font "rsfs10" at 8.0pt
-File: ../timhieukhoahoc/pic2//2.png Graphic file (type bmp)
-<../timhieukhoahoc/pic2//2.png>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
- [2]
-File: ../timhieukhoahoc/pic2//3.png Graphic file (type bmp)
-<../timhieukhoahoc/pic2//3.png>
-
-Overfull \hbox (1.6797pt too wide) in paragraph at lines 58--59
-[][] 
- []
-
-File: ../timhieukhoahoc/pic2//4.png Graphic file (type bmp)
-<../timhieukhoahoc/pic2//4.png>
-Requested font "SimSun/OT:script=hani;language=dflt;" at 12.0pt
- -> C:/Windows/Fonts/simsun.ttc
-File: ../timhieukhoahoc/pic2//5.png Graphic file (type bmp)
-<../timhieukhoahoc/pic2//5.png>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-[3]
-File: ../timhieukhoahoc/pic2//6.jpg Graphic file (type bmp)
-<../timhieukhoahoc/pic2//6.jpg>
-File: ../timhieukhoahoc/pic2//7.png Graphic file (type bmp)
-<../timhieukhoahoc/pic2//7.png>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
- [4]
-File: ../timhieukhoahoc/pic2//8.jpg Graphic file (type bmp)
-<../timhieukhoahoc/pic2//8.jpg>
-File: ../timhieukhoahoc/pic2//9.png Graphic file (type bmp)
-<../timhieukhoahoc/pic2//9.png>
-
-Overfull \hbox (1.6797pt too wide) in paragraph at lines 121--122
-[][] 
- []
-
-File: ../timhieukhoahoc/pic2//10.jpg Graphic file (type bmp)
-<../timhieukhoahoc/pic2//10.jpg>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-[5]
-File: ../timhieukhoahoc/pic2//11.jpg Graphic file (type bmp)
-<../timhieukhoahoc/pic2//11.jpg>
-
-Overfull \hbox (1.6797pt too wide) in paragraph at lines 147--148
-[][] 
- []
-
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-[6]
-File: ../timhieukhoahoc/pic2//12.png Graphic file (type bmp)
-<../timhieukhoahoc/pic2//12.png>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
- [7]
-Overfull \hbox (6.8248pt too wide) detected at line 245
-[]
- []
-
-File: ../timhieukhoahoc/pic2//13.png Graphic file (type bmp)
-<../timhieukhoahoc/pic2//13.png>
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
-(Font)              scaled to size 12.0pt on input line 279.
-Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=dflt;+pnum;+onu
-m;mapping=tex-text;" at 12.0pt
- -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
-nd/EBGaramond-Italic.otf
-Package microtype Info: Character `156' is missing
-(microtype)             in font `\TU/EBGaramond(0)/m/it/12'.
-(microtype)             Ignoring protrusion settings for this character.
-
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
-[]\TU/EBGaramond(0)/m/n/12 [$[]\OT1/ztmcm/m/n/12 1$[]\TU/EBGaramond(0)/m/n/12 ]
- Buchanan, M. ($[]\OT1/ztmcm/m/n/12 2019$[]\TU/EBGaramond(0)/m/n/12 ). Going in
-to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
-[]\TU/EBGaramond(0)/m/n/12 [$[]\OT1/ztmcm/m/n/12 3$[]\TU/EBGaramond(0)/m/n/12 ]
- Patton, L. ($[]\OT1/ztmcm/m/n/12 2018$[]\TU/EBGaramond(0)/m/n/12 ). Hermann vo
-n
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
-\TU/EBGaramond(0)/m/n/12 Helmholtz (Stanford Encyclopedia of
- []
-
-)
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
- [8] (_main.aux)
+File: ../quantoan/pic//2.jpg Graphic file (type bmp)
+<../quantoan/pic//2.jpg>
+File: ../quantoan/pic//3.jpg Graphic file (type bmp)
+<../quantoan/pic//3.jpg>
+File: quantoan1.pdf Graphic file (type pdf)
+<use quantoan1.pdf>
+File: fquantoan1.pdf Graphic file (type pdf)
+<use fquantoan1.pdf>
+File: quantoan1.pdf Graphic file (type pdf)
+<use quantoan1.pdf>
+File: fquantoan1.pdf Graphic file (type pdf)
+<use fquantoan1.pdf>
+File: quantoan1.pdf Graphic file (type pdf)
+<use quantoan1.pdf>
+File: fquantoan1.pdf Graphic file (type pdf)
+<use fquantoan1.pdf>
+ [2]) (_main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `_main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                _main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to '_main.run.xml'.
 \openout1 = `_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 69316 strings out of 410969
- 1580949 string characters out of 2823810
- 2652602 words of memory out of 3000000
- 88786 multiletter control sequences out of 15000+600000
- 508086 words of font info for 140 fonts, out of 8000000 for 9000
+ 69027 strings out of 410969
+ 1573813 string characters out of 2823810
+ 2644660 words of memory out of 3000000
+ 88507 multiletter control sequences out of 15000+600000
+ 500851 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,12n,120p,1229b,1094s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 104i,11n,120p,1132b,704s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on _main.pdf (8 pages).
+Output written on _main.pdf (2 pages).
