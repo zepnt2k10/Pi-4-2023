@@ -48,7 +48,7 @@
 		\includegraphics[width=1\linewidth]{Pi4_bai2}
 		\vspace*{-15pt}
 	\end{figure}
-	$\pmb{3.}$ 	Bác Tư múc ra ba thìa sữa từ một ly sữa đầy và đổ chúng một ly đựng cà phê nguyên chất và khuấy đều. Sau đó bác múc ba thìa hỗn hợp thu được và đổ lại vào ly sữa. Hỏi bây giờ thứ gì nhiều hơn: cà phê trong ly đựng sữa hay sữa trong ly đựng cà phê?
+	$\pmb{3.}$ 	Bác Tư múc ra ba thìa sữa từ một ly sữa đầy và đổ chúng vào một ly đựng cà phê nguyên chất và khuấy đều. Sau đó bác múc ba thìa hỗn hợp thu được và đổ lại vào ly sữa. Hỏi bây giờ thứ gì nhiều hơn: cà phê trong ly đựng sữa hay sữa trong ly đựng cà phê?
 	\begin{figure}[H]
 		\centering
 		\vspace*{5pt}
@@ -78,10 +78,10 @@
 	\vskip 0.1cm
 	$\pmb{6.}$ $a)$	Có tám bạn học sinh giải một đề thi gồm $8$ bài toán. Khi tổng kết lại, cô giáo thấy rằng với mỗi bài toán lại có đúng  năm bạn học sinh giải được bài đó. Chứng minh rằng có hai học sinh sao cho với mỗi bài toán trong đề có ít nhất một trong hai em giải được.
 	\vskip 0.1cm
-	$b)$	Em hãy chỉ ra một ví dụ rằng, nếu có đúng bốn bạn học sinh giải được mỗi bài toán, thì có thể không có hai  học sinh nào như vậy.
+	$b)$	Em hãy chỉ ra một ví dụ rằng, nếu với mỗi bài toán đều có đúng bốn bạn học sinh giải được, thì điều khẳng định ở câu $a)$ không đúng.
 	\begin{figure}[H]
 		\centering
-		\vspace*{-5pt}
+		\vspace*{-10pt}
 		\captionsetup{labelformat= empty, justification=centering}
 		\includegraphics[width=0.7\linewidth]{Pi4_bai6}
 		\vspace*{-5pt}
@@ -187,11 +187,10 @@
 \vspace*{25pt}
 
 \begin{multicols}{2}
-		In this article, we discuss some applications of pattern recognition in graph theory.
+	In this article, we introduce an application of graph theory to pattern recognition.
 	\vskip 0.2cm
 	\PIbox{
-		{\color{toancuabi}\textbf{Example} (Match the phrases)\textbf{.}} Match the phrases in Vietnamese on the left of the table below,
-		with their translations into English on the right of the table.}
+		{\color{toancuabi}\textbf{Exercise} (Phrase matching)\textbf{.}} Match the Vietnamese phrases in the left column to their English translations in the right column of the table below.}
 	\begin{table}[H]
 		\vspace*{-5pt}
 		\centering
@@ -233,9 +232,8 @@
 \textit{Solution.}
 We use a graph theory approach from the point of view of an English speaker to solve the problem.
 \vskip 0.1cm
-First, we look at the Vietnamese phrases. They are single-- and double--word phrases.
-We connect the phrases in a graph so that each pair of phrases consists of a single--word phrases and a double-word phrase,
-the double--word phrase basically contains the single-word phrase. See the diagram below.
+First, notice that the Vietnamese phrases above are single--word and double--word phrases.
+We construct a graph as follows: each phrase is represented by a vertex; an edge connects a single--word phrase and a double--word phrase where the latter contains the former.  See the graph below.
 \begin{figure}[H]
 	\vspace*{-5pt}
 	\centering
@@ -244,10 +242,9 @@ the double--word phrase basically contains the single-word phrase. See the diagr
 	\caption{\small\textit{\color{toancuabi}Graph of Vietnamese phrases}}
 	\vspace*{-10pt}
 \end{figure}
-The graph of Vietnamese phrases, we presume, represents connections in \textit{shared meaning} between phrases.
-Thus, we connect the English phrases in the same way,
-each phrase with another so that one has a meaning that shall be contained by the meaning of the other.
-The result is the diagram below.
+In plain words, the graph of Vietnamese phrases represents connections in \textit{shared meaning} between the connected phrases.
+Similarly, we connect the English phrases such that, in each connected phrases, the meaning of one phrase is contained in the meaning of the other.
+We obtain the graph of English phrases below.
 \begin{figure}[H]
 	\vspace*{-5pt}
 	\centering
@@ -255,21 +252,18 @@ The result is the diagram below.
 	\includegraphics[width= 1\linewidth]{hc-2022-2-2-2-2.pdf}
 	\caption{\small\textit{\color{toancuabi}Graph of English phrases}}
 	\vspace*{-10pt}
-\end{figure}
-Comparing the graph, only the $5-vertex$ subgraphs \textit{(phấn hoa, vòng hoa, cánh hoa, bó hoa, hoa)} and
-\textit{(bouquet, petal, pollen, wreath, flower),} are \textit{topologically} equivalent, thus \textit{hoa=flower}.
-Note that the relation between \textit{pollen} and \textit{powder},
-implies that \textit{powder} is \textit{phấn}. The rest of the vertices then can be paired up
+\end{figure}  
+Comparing the resulting graphs, only the $5-vertex$ subgraphs \textit{(phấn hoa, vòng hoa, cánh hoa, bó hoa, hoa)} and
+\textit{(bouquet, petal, pollen, wreath, flower),} are \textit{isomorphic} (that is to say, they are the same graphs). Therefore, \textit{hoa}=\textit{flower}.
+Observe that the relation between \textit{pollen} and \textit{power} implies that \textit{powder} is \textit{phấn}. The rest of the vertices can then be paired up
 \textit{petal -- cánh hoa, bouquet -- bó hoa, pollen -- phấn hoa, wreath -- vòng hoa.}
-Therefor \textit{bó -- cluster}, and \textit{chalk -- đá phấn.}
-Similarly the paths \textit{(băng -- núi băng -- núi -- núi lửa -- lửa -- đá lửa -- đá -- nước đá)} 
-\textit{(ice -- iceberg -- mountain -- volcano -- fire -- flint -- rock)} are very much alike,
-in addtion, the relation of \textit{đá -- đá phấn} is similar to \textit{rock -- chalk,}
-which make both \textit{nước đá} and \textit{băng} to have the meaning of \textit{ice}.
-Similarly the paths \textit{(vòng -- đường vòng -- đường -- mở đường -- mở)} 
+Thus \textit{bó -- cluster} and \textit{chalk -- đá phấn}.
+Similarly, the paths \textit{(băng -- núi băng -- núi -- núi lửa -- lửa -- đá lửa -- đá -- nước đá)} 
+\textit{(ice -- iceberg -- mountain -- volcano -- fire -- flint -- rock)} are very much alike. In addition, the relation of \textit{đá -- đá phấn} is similar to \textit{rock - chalk}, and so both \textit{nước đá} and \textit{đá} mean \textit{ice}.
+Similarly, the paths \textit{(vòng -- đường vòng -- đường -- mở đường -- mở)} 
 \textit{(to open -- to pave the way -- road -- detour -- circle)} are very much alike.
 \vskip 0.1cm
-Following the reasoning, we can fill the table as shown below.
+Following the same arguments, we can fill up the table below.
 \end{multicols}
 \begin{center}
 	\renewcommand{\arraystretch}{1.2}
