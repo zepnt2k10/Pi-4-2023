@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.2.16)  24 MAR 2023 20:55
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2022.2.16)  25 MAR 2023 20:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3117,7 +3117,7 @@ File: ../toanhocdoisong/pic2//mosaique-3.jpg Graphic file (type bmp)
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 1 might be wrong on input line 47.
+(multicol)                Footnotes on page 2 might be wrong on input line 47.
 
 
 Overfull \vbox (11.62634pt too high) has occurred while \output is active []
@@ -3143,13 +3143,13 @@ p)
 <../toanhocdoisong/pic2//../bannertoanhocdoisong.jpg>
 File: ../toanhocdoisong/pic2//../tieude2.pdf Graphic file (type pdf)
 <use ../toanhocdoisong/pic2//../tieude2.pdf>
-File: ftoanhocds2.pdf Graphic file (type pdf)
-<use ftoanhocds2.pdf>
-File: ftoanhocds2.pdf Graphic file (type pdf)
-<use ftoanhocds2.pdf>
-File: ftoanhocds2.pdf Graphic file (type pdf)
-<use ftoanhocds2.pdf>
-[1
+File: ftoanhocds1.pdf Graphic file (type pdf)
+<use ftoanhocds1.pdf>
+File: ftoanhocds1.pdf Graphic file (type pdf)
+<use ftoanhocds1.pdf>
+File: ftoanhocds1.pdf Graphic file (type pdf)
+<use ftoanhocds1.pdf>
+[2
 
 ]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
@@ -3160,19 +3160,19 @@ mapping=tex-text;" at 12.0pt
 nd/EBGaramond-Bold.otf
 File: ../toanhocdoisong/pic2//mosaique-4.png Graphic file (type bmp)
 <../toanhocdoisong/pic2//mosaique-4.png>
-File: toanhocds1.pdf Graphic file (type pdf)
-<use toanhocds1.pdf>
-File: ftoanhocds1.pdf Graphic file (type pdf)
-<use ftoanhocds1.pdf>
-File: toanhocds1.pdf Graphic file (type pdf)
-<use toanhocds1.pdf>
-File: ftoanhocds1.pdf Graphic file (type pdf)
-<use ftoanhocds1.pdf>
-File: toanhocds1.pdf Graphic file (type pdf)
-<use toanhocds1.pdf>
-File: ftoanhocds1.pdf Graphic file (type pdf)
-<use ftoanhocds1.pdf>
- [2]
+File: toanhocds2.pdf Graphic file (type pdf)
+<use toanhocds2.pdf>
+File: ftoanhocds2.pdf Graphic file (type pdf)
+<use ftoanhocds2.pdf>
+File: toanhocds2.pdf Graphic file (type pdf)
+<use toanhocds2.pdf>
+File: ftoanhocds2.pdf Graphic file (type pdf)
+<use ftoanhocds2.pdf>
+File: toanhocds2.pdf Graphic file (type pdf)
+<use toanhocds2.pdf>
+File: ftoanhocds2.pdf Graphic file (type pdf)
+<use ftoanhocds2.pdf>
+ [3]
 Package mdframed Info: mdframed works in twoside mode on input line 110.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -3262,20 +3262,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 176--179
 
 Overfull \vbox (14.62634pt too high) has occurred while \output is active []
 
-File: toanhocds2.pdf Graphic file (type pdf)
-<use toanhocds2.pdf>
-File: ftoanhocds2.pdf Graphic file (type pdf)
-<use ftoanhocds2.pdf>
-File: toanhocds2.pdf Graphic file (type pdf)
-<use toanhocds2.pdf>
-File: ftoanhocds2.pdf Graphic file (type pdf)
-<use ftoanhocds2.pdf>
-File: toanhocds2.pdf Graphic file (type pdf)
-<use toanhocds2.pdf>
-File: ftoanhocds2.pdf Graphic file (type pdf)
-<use ftoanhocds2.pdf>
+File: toanhocds1.pdf Graphic file (type pdf)
+<use toanhocds1.pdf>
+File: ftoanhocds1.pdf Graphic file (type pdf)
+<use ftoanhocds1.pdf>
+File: toanhocds1.pdf Graphic file (type pdf)
+<use toanhocds1.pdf>
+File: ftoanhocds1.pdf Graphic file (type pdf)
+<use ftoanhocds1.pdf>
+File: toanhocds1.pdf Graphic file (type pdf)
+<use toanhocds1.pdf>
+File: ftoanhocds1.pdf Graphic file (type pdf)
+<use ftoanhocds1.pdf>
 
-[3]
+[4]
 Package mdframed Info: Not enough space on this page on input line 179.
 
 Underfull \hbox (badness 10000) in paragraph at lines 198--199
@@ -3289,30 +3289,6 @@ Overfull \hbox (1.32578pt too wide) detected at line 203
 
 File: ../toanhocdoisong/pic2//mosaique-8.png Graphic file (type bmp)
 <../toanhocdoisong/pic2//mosaique-8.png>
-File: toanhocds1.pdf Graphic file (type pdf)
-<use toanhocds1.pdf>
-File: ftoanhocds1.pdf Graphic file (type pdf)
-<use ftoanhocds1.pdf>
-File: toanhocds1.pdf Graphic file (type pdf)
-<use toanhocds1.pdf>
-File: ftoanhocds1.pdf Graphic file (type pdf)
-<use ftoanhocds1.pdf>
-File: toanhocds1.pdf Graphic file (type pdf)
-<use toanhocds1.pdf>
-File: ftoanhocds1.pdf Graphic file (type pdf)
-<use ftoanhocds1.pdf>
-[4]
-Overfull \hbox (1.6797pt too wide) in paragraph at lines 237--250
-[][]
- []
-
-
-Overfull \hbox (1.6797pt too wide) in paragraph at lines 237--250
-[] 
- []
-
-File: ../toanhocdoisong/pic2//mosaique-9.png Graphic file (type bmp)
-<../toanhocdoisong/pic2//mosaique-9.png>
 File: toanhocds2.pdf Graphic file (type pdf)
 <use toanhocds2.pdf>
 File: ftoanhocds2.pdf Graphic file (type pdf)
@@ -3326,6 +3302,30 @@ File: toanhocds2.pdf Graphic file (type pdf)
 File: ftoanhocds2.pdf Graphic file (type pdf)
 <use ftoanhocds2.pdf>
 [5]
+Overfull \hbox (1.6797pt too wide) in paragraph at lines 237--250
+[][]
+ []
+
+
+Overfull \hbox (1.6797pt too wide) in paragraph at lines 237--250
+[] 
+ []
+
+File: ../toanhocdoisong/pic2//mosaique-9.png Graphic file (type bmp)
+<../toanhocdoisong/pic2//mosaique-9.png>
+File: toanhocds1.pdf Graphic file (type pdf)
+<use toanhocds1.pdf>
+File: ftoanhocds1.pdf Graphic file (type pdf)
+<use ftoanhocds1.pdf>
+File: toanhocds1.pdf Graphic file (type pdf)
+<use toanhocds1.pdf>
+File: ftoanhocds1.pdf Graphic file (type pdf)
+<use ftoanhocds1.pdf>
+File: toanhocds1.pdf Graphic file (type pdf)
+<use toanhocds1.pdf>
+File: ftoanhocds1.pdf Graphic file (type pdf)
+<use ftoanhocds1.pdf>
+[6]
 File: ../toanhocdoisong/pic2//mosaique-10.png Graphic file (type bmp)
 <../toanhocdoisong/pic2//mosaique-10.png>
 
@@ -3350,22 +3350,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 292--293
 ’histoire des
  []
 
-File: toanhocds1.pdf Graphic file (type pdf)
-<use toanhocds1.pdf>
-File: ftoanhocds1.pdf Graphic file (type pdf)
-<use ftoanhocds1.pdf>
-File: toanhocds1.pdf Graphic file (type pdf)
-<use toanhocds1.pdf>
-File: ftoanhocds1.pdf Graphic file (type pdf)
-<use ftoanhocds1.pdf>
-File: toanhocds1.pdf Graphic file (type pdf)
-<use toanhocds1.pdf>
-File: ftoanhocds1.pdf Graphic file (type pdf)
-<use ftoanhocds1.pdf>
-[6]) (../duongvaotoanhoc/duongvaotoanhoc2.tex
+File: toanhocds2.pdf Graphic file (type pdf)
+<use toanhocds2.pdf>
+File: ftoanhocds2.pdf Graphic file (type pdf)
+<use ftoanhocds2.pdf>
+File: toanhocds2.pdf Graphic file (type pdf)
+<use toanhocds2.pdf>
+File: ftoanhocds2.pdf Graphic file (type pdf)
+<use ftoanhocds2.pdf>
+File: toanhocds2.pdf Graphic file (type pdf)
+<use toanhocds2.pdf>
+File: ftoanhocds2.pdf Graphic file (type pdf)
+<use ftoanhocds2.pdf>
+[7]) (../duongvaotoanhoc/duongvaotoanhoc2.tex
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 7 might be wrong on input line 26.
+(multicol)                Footnotes on page 8 might be wrong on input line 26.
 
 
 Overfull \vbox (11.62634pt too high) has occurred while \output is active []
@@ -3374,14 +3374,14 @@ File: ../duongvaotoanhoc/pic2//../bannerduongvao.jpg Graphic file (type bmp)
 <../duongvaotoanhoc/pic2//../bannerduongvao.jpg>
 File: ../duongvaotoanhoc/pic2//../tieude1.pdf Graphic file (type pdf)
 <use ../duongvaotoanhoc/pic2//../tieude1.pdf>
-File: fduongvao2.pdf Graphic file (type pdf)
-<use fduongvao2.pdf>
-File: fduongvao2.pdf Graphic file (type pdf)
-<use fduongvao2.pdf>
-File: fduongvao2.pdf Graphic file (type pdf)
-<use fduongvao2.pdf>
+File: fduongvao1.pdf Graphic file (type pdf)
+<use fduongvao1.pdf>
+File: fduongvao1.pdf Graphic file (type pdf)
+<use fduongvao1.pdf>
+File: fduongvao1.pdf Graphic file (type pdf)
+<use fduongvao1.pdf>
 
-[7]
+[8]
 File: ../duongvaotoanhoc/pic2//1.png Graphic file (type bmp)
 <../duongvaotoanhoc/pic2//1.png>
 
@@ -3391,36 +3391,21 @@ Underfull \hbox (badness 5260) in paragraph at lines 27--35
 
 File: ../duongvaotoanhoc/pic2//2.png Graphic file (type bmp)
 <../duongvaotoanhoc/pic2//2.png>
-File: duongvao1.pdf Graphic file (type pdf)
-<use duongvao1.pdf>
-File: fduongvao1.pdf Graphic file (type pdf)
-<use fduongvao1.pdf>
-File: duongvao1.pdf Graphic file (type pdf)
-<use duongvao1.pdf>
-File: fduongvao1.pdf Graphic file (type pdf)
-<use fduongvao1.pdf>
-File: duongvao1.pdf Graphic file (type pdf)
-<use duongvao1.pdf>
-File: fduongvao1.pdf Graphic file (type pdf)
-<use fduongvao1.pdf>
-[8]
+File: duongvao2.pdf Graphic file (type pdf)
+<use duongvao2.pdf>
+File: fduongvao2.pdf Graphic file (type pdf)
+<use fduongvao2.pdf>
+File: duongvao2.pdf Graphic file (type pdf)
+<use duongvao2.pdf>
+File: fduongvao2.pdf Graphic file (type pdf)
+<use fduongvao2.pdf>
+File: duongvao2.pdf Graphic file (type pdf)
+<use duongvao2.pdf>
+File: fduongvao2.pdf Graphic file (type pdf)
+<use fduongvao2.pdf>
+[9]
 File: ../duongvaotoanhoc/pic2//3.png Graphic file (type bmp)
 <../duongvaotoanhoc/pic2//3.png>
-File: duongvao2.pdf Graphic file (type pdf)
-<use duongvao2.pdf>
-File: fduongvao2.pdf Graphic file (type pdf)
-<use fduongvao2.pdf>
-File: duongvao2.pdf Graphic file (type pdf)
-<use duongvao2.pdf>
-File: fduongvao2.pdf Graphic file (type pdf)
-<use fduongvao2.pdf>
-File: duongvao2.pdf Graphic file (type pdf)
-<use duongvao2.pdf>
-File: fduongvao2.pdf Graphic file (type pdf)
-<use fduongvao2.pdf>
- [9]
-File: ../duongvaotoanhoc/pic2//4.png Graphic file (type bmp)
-<../duongvaotoanhoc/pic2//4.png>
 File: duongvao1.pdf Graphic file (type pdf)
 <use duongvao1.pdf>
 File: fduongvao1.pdf Graphic file (type pdf)
@@ -3434,8 +3419,8 @@ File: duongvao1.pdf Graphic file (type pdf)
 File: fduongvao1.pdf Graphic file (type pdf)
 <use fduongvao1.pdf>
  [10]
-File: ../duongvaotoanhoc/pic2//5.png Graphic file (type bmp)
-<../duongvaotoanhoc/pic2//5.png>
+File: ../duongvaotoanhoc/pic2//4.png Graphic file (type bmp)
+<../duongvaotoanhoc/pic2//4.png>
 File: duongvao2.pdf Graphic file (type pdf)
 <use duongvao2.pdf>
 File: fduongvao2.pdf Graphic file (type pdf)
@@ -3449,8 +3434,8 @@ File: duongvao2.pdf Graphic file (type pdf)
 File: fduongvao2.pdf Graphic file (type pdf)
 <use fduongvao2.pdf>
  [11]
-File: ../duongvaotoanhoc/pic2//6.png Graphic file (type bmp)
-<../duongvaotoanhoc/pic2//6.png>
+File: ../duongvaotoanhoc/pic2//5.png Graphic file (type bmp)
+<../duongvaotoanhoc/pic2//5.png>
 File: duongvao1.pdf Graphic file (type pdf)
 <use duongvao1.pdf>
 File: fduongvao1.pdf Graphic file (type pdf)
@@ -3464,10 +3449,8 @@ File: duongvao1.pdf Graphic file (type pdf)
 File: fduongvao1.pdf Graphic file (type pdf)
 <use fduongvao1.pdf>
  [12]
-File: ../duongvaotoanhoc/pic2//7.png Graphic file (type bmp)
-<../duongvaotoanhoc/pic2//7.png>
-File: ../duongvaotoanhoc/pic2//8.png Graphic file (type bmp)
-<../duongvaotoanhoc/pic2//8.png>
+File: ../duongvaotoanhoc/pic2//6.png Graphic file (type bmp)
+<../duongvaotoanhoc/pic2//6.png>
 File: duongvao2.pdf Graphic file (type pdf)
 <use duongvao2.pdf>
 File: fduongvao2.pdf Graphic file (type pdf)
@@ -3481,8 +3464,10 @@ File: duongvao2.pdf Graphic file (type pdf)
 File: fduongvao2.pdf Graphic file (type pdf)
 <use fduongvao2.pdf>
  [13]
-File: ../duongvaotoanhoc/pic2//9.png Graphic file (type bmp)
-<../duongvaotoanhoc/pic2//9.png>
+File: ../duongvaotoanhoc/pic2//7.png Graphic file (type bmp)
+<../duongvaotoanhoc/pic2//7.png>
+File: ../duongvaotoanhoc/pic2//8.png Graphic file (type bmp)
+<../duongvaotoanhoc/pic2//8.png>
 File: duongvao1.pdf Graphic file (type pdf)
 <use duongvao1.pdf>
 File: fduongvao1.pdf Graphic file (type pdf)
@@ -3496,21 +3481,23 @@ File: duongvao1.pdf Graphic file (type pdf)
 File: fduongvao1.pdf Graphic file (type pdf)
 <use fduongvao1.pdf>
  [14]
+File: ../duongvaotoanhoc/pic2//9.png Graphic file (type bmp)
+<../duongvaotoanhoc/pic2//9.png>
+File: duongvao2.pdf Graphic file (type pdf)
+<use duongvao2.pdf>
+File: fduongvao2.pdf Graphic file (type pdf)
+<use fduongvao2.pdf>
+File: duongvao2.pdf Graphic file (type pdf)
+<use duongvao2.pdf>
+File: fduongvao2.pdf Graphic file (type pdf)
+<use fduongvao2.pdf>
+File: duongvao2.pdf Graphic file (type pdf)
+<use duongvao2.pdf>
+File: fduongvao2.pdf Graphic file (type pdf)
+<use fduongvao2.pdf>
+ [15]
 File: ../duongvaotoanhoc/pic2//10.png Graphic file (type bmp)
 <../duongvaotoanhoc/pic2//10.png>
-File: duongvao2.pdf Graphic file (type pdf)
-<use duongvao2.pdf>
-File: fduongvao2.pdf Graphic file (type pdf)
-<use fduongvao2.pdf>
-File: duongvao2.pdf Graphic file (type pdf)
-<use duongvao2.pdf>
-File: fduongvao2.pdf Graphic file (type pdf)
-<use fduongvao2.pdf>
-File: duongvao2.pdf Graphic file (type pdf)
-<use duongvao2.pdf>
-File: fduongvao2.pdf Graphic file (type pdf)
-<use fduongvao2.pdf>
- [15])
 File: duongvao1.pdf Graphic file (type pdf)
 <use duongvao1.pdf>
 File: fduongvao1.pdf Graphic file (type pdf)
@@ -3523,7 +3510,20 @@ File: duongvao1.pdf Graphic file (type pdf)
 <use duongvao1.pdf>
 File: fduongvao1.pdf Graphic file (type pdf)
 <use fduongvao1.pdf>
- [16] (../quantoan/quantoan.tex
+ [16])
+File: duongvao2.pdf Graphic file (type pdf)
+<use duongvao2.pdf>
+File: fduongvao2.pdf Graphic file (type pdf)
+<use fduongvao2.pdf>
+File: duongvao2.pdf Graphic file (type pdf)
+<use duongvao2.pdf>
+File: fduongvao2.pdf Graphic file (type pdf)
+<use fduongvao2.pdf>
+File: duongvao2.pdf Graphic file (type pdf)
+<use duongvao2.pdf>
+File: fduongvao2.pdf Graphic file (type pdf)
+<use fduongvao2.pdf>
+ [17] (../quantoan/quantoan.tex
 File: ../quantoan/pic//1.jpg Graphic file (type bmp)
 <../quantoan/pic//1.jpg>
 File: ../quantoan/pic//4.jpg Graphic file (type bmp)
@@ -3532,44 +3532,44 @@ File: ../quantoan/pic//../bannerquantoan.jpg Graphic file (type bmp)
 <../quantoan/pic//../bannerquantoan.jpg>
 File: ../quantoan/pic//../tieude.pdf Graphic file (type pdf)
 <use ../quantoan/pic//../tieude.pdf>
-File: fquantoan2.pdf Graphic file (type pdf)
-<use fquantoan2.pdf>
-File: fquantoan2.pdf Graphic file (type pdf)
-<use fquantoan2.pdf>
-File: fquantoan2.pdf Graphic file (type pdf)
-<use fquantoan2.pdf>
- [17]
+File: fquantoan1.pdf Graphic file (type pdf)
+<use fquantoan1.pdf>
+File: fquantoan1.pdf Graphic file (type pdf)
+<use fquantoan1.pdf>
+File: fquantoan1.pdf Graphic file (type pdf)
+<use fquantoan1.pdf>
+ [18]
 File: ../quantoan/pic//2.jpg Graphic file (type bmp)
 <../quantoan/pic//2.jpg>
 File: ../quantoan/pic//3.jpg Graphic file (type bmp)
 <../quantoan/pic//3.jpg>
-File: quantoan1.pdf Graphic file (type pdf)
-<use quantoan1.pdf>
-File: fquantoan1.pdf Graphic file (type pdf)
-<use fquantoan1.pdf>
-File: quantoan1.pdf Graphic file (type pdf)
-<use quantoan1.pdf>
-File: fquantoan1.pdf Graphic file (type pdf)
-<use fquantoan1.pdf>
-File: quantoan1.pdf Graphic file (type pdf)
-<use quantoan1.pdf>
-File: fquantoan1.pdf Graphic file (type pdf)
-<use fquantoan1.pdf>
+File: quantoan2.pdf Graphic file (type pdf)
+<use quantoan2.pdf>
+File: fquantoan2.pdf Graphic file (type pdf)
+<use fquantoan2.pdf>
+File: quantoan2.pdf Graphic file (type pdf)
+<use quantoan2.pdf>
+File: fquantoan2.pdf Graphic file (type pdf)
+<use fquantoan2.pdf>
+File: quantoan2.pdf Graphic file (type pdf)
+<use quantoan2.pdf>
+File: fquantoan2.pdf Graphic file (type pdf)
+<use fquantoan2.pdf>
 
-[18]) (../toancuabi/toancuabi.tex
+[19]) (../toancuabi/toancuabi.tex
 File: ../toancuabi/pic//xuanphong.jpg Graphic file (type bmp)
 <../toancuabi/pic//xuanphong.jpg>
 File: ../toancuabi/pic//../bannertoancuabi.jpg Graphic file (type bmp)
 <../toancuabi/pic//../bannertoancuabi.jpg>
 File: ../toancuabi/pic//../tieude.pdf Graphic file (type pdf)
 <use ../toancuabi/pic//../tieude.pdf>
-File: ftoancuabi2.pdf Graphic file (type pdf)
-<use ftoancuabi2.pdf>
-File: ftoancuabi2.pdf Graphic file (type pdf)
-<use ftoancuabi2.pdf>
-File: ftoancuabi2.pdf Graphic file (type pdf)
-<use ftoancuabi2.pdf>
- [19]
+File: ftoancuabi1.pdf Graphic file (type pdf)
+<use ftoancuabi1.pdf>
+File: ftoancuabi1.pdf Graphic file (type pdf)
+<use ftoancuabi1.pdf>
+File: ftoancuabi1.pdf Graphic file (type pdf)
+<use ftoancuabi1.pdf>
+ [20]
 File: ../toancuabi/pic//Pi4_bai1.jpg Graphic file (type bmp)
 <../toancuabi/pic//Pi4_bai1.jpg>
 File: ../toancuabi/pic//Pi4_bai2.jpg Graphic file (type bmp)
@@ -3582,25 +3582,6 @@ File: ../toancuabi/pic//Pi4_bai5.jpg Graphic file (type bmp)
 <../toancuabi/pic//Pi4_bai5.jpg>
 File: ../toancuabi/pic//../tieude11.pdf Graphic file (type pdf)
 <use ../toancuabi/pic//../tieude11.pdf>
-File: toancuabi1.pdf Graphic file (type pdf)
-<use toancuabi1.pdf>
-File: ftoancuabi1.pdf Graphic file (type pdf)
-<use ftoancuabi1.pdf>
-File: toancuabi1.pdf Graphic file (type pdf)
-<use toancuabi1.pdf>
-File: ftoancuabi1.pdf Graphic file (type pdf)
-<use ftoancuabi1.pdf>
-File: toancuabi1.pdf Graphic file (type pdf)
-<use toancuabi1.pdf>
-File: ftoancuabi1.pdf Graphic file (type pdf)
-<use ftoancuabi1.pdf>
- [20]
-File: ../toancuabi/pic//Pi4_bai6.jpg Graphic file (type bmp)
-<../toancuabi/pic//Pi4_bai6.jpg>
-File: ../toancuabi/pic//Pi12_Bai1.png Graphic file (type bmp)
-<../toancuabi/pic//Pi12_Bai1.png>
-File: ../toancuabi/pic//../tieude2.pdf Graphic file (type pdf)
-<use ../toancuabi/pic//../tieude2.pdf>
 File: toancuabi2.pdf Graphic file (type pdf)
 <use toancuabi2.pdf>
 File: ftoancuabi2.pdf Graphic file (type pdf)
@@ -3614,14 +3595,12 @@ File: toancuabi2.pdf Graphic file (type pdf)
 File: ftoancuabi2.pdf Graphic file (type pdf)
 <use ftoancuabi2.pdf>
  [21]
-File: ../toancuabi/pic//Pi12_Bai2.png Graphic file (type bmp)
-<../toancuabi/pic//Pi12_Bai2.png>
-File: ../toancuabi/pic//Pi12_Bai3.png Graphic file (type bmp)
-<../toancuabi/pic//Pi12_Bai3.png>
-File: ../toancuabi/pic//Pi12_Bai4.png Graphic file (type bmp)
-<../toancuabi/pic//Pi12_Bai4.png>
-Requested font "SimSun/OT:script=hani;language=dflt;" at 12.0pt
- -> C:/Windows/Fonts/simsun.ttc
+File: ../toancuabi/pic//Pi4_bai6.jpg Graphic file (type bmp)
+<../toancuabi/pic//Pi4_bai6.jpg>
+File: ../toancuabi/pic//Pi12_Bai1.png Graphic file (type bmp)
+<../toancuabi/pic//Pi12_Bai1.png>
+File: ../toancuabi/pic//../tieude2.pdf Graphic file (type pdf)
+<use ../toancuabi/pic//../tieude2.pdf>
 File: toancuabi1.pdf Graphic file (type pdf)
 <use toancuabi1.pdf>
 File: ftoancuabi1.pdf Graphic file (type pdf)
@@ -3635,8 +3614,14 @@ File: toancuabi1.pdf Graphic file (type pdf)
 File: ftoancuabi1.pdf Graphic file (type pdf)
 <use ftoancuabi1.pdf>
  [22]
-File: ../toancuabi/pic//Pi12_Bai5.png Graphic file (type bmp)
-<../toancuabi/pic//Pi12_Bai5.png>
+File: ../toancuabi/pic//Pi12_Bai2.png Graphic file (type bmp)
+<../toancuabi/pic//Pi12_Bai2.png>
+File: ../toancuabi/pic//Pi12_Bai3.png Graphic file (type bmp)
+<../toancuabi/pic//Pi12_Bai3.png>
+File: ../toancuabi/pic//Pi12_Bai4.png Graphic file (type bmp)
+<../toancuabi/pic//Pi12_Bai4.png>
+Requested font "SimSun/OT:script=hani;language=dflt;" at 12.0pt
+ -> C:/Windows/Fonts/simsun.ttc
 File: toancuabi2.pdf Graphic file (type pdf)
 <use toancuabi2.pdf>
 File: ftoancuabi2.pdf Graphic file (type pdf)
@@ -3650,6 +3635,21 @@ File: toancuabi2.pdf Graphic file (type pdf)
 File: ftoancuabi2.pdf Graphic file (type pdf)
 <use ftoancuabi2.pdf>
  [23]
+File: ../toancuabi/pic//Pi12_Bai5.png Graphic file (type bmp)
+<../toancuabi/pic//Pi12_Bai5.png>
+File: toancuabi1.pdf Graphic file (type pdf)
+<use toancuabi1.pdf>
+File: ftoancuabi1.pdf Graphic file (type pdf)
+<use ftoancuabi1.pdf>
+File: toancuabi1.pdf Graphic file (type pdf)
+<use toancuabi1.pdf>
+File: ftoancuabi1.pdf Graphic file (type pdf)
+<use ftoancuabi1.pdf>
+File: toancuabi1.pdf Graphic file (type pdf)
+<use toancuabi1.pdf>
+File: ftoancuabi1.pdf Graphic file (type pdf)
+<use ftoancuabi1.pdf>
+ [24]
 Overfull \hbox (1.6797pt too wide) in paragraph at lines 193--231
 [][] 
  []
@@ -3684,27 +3684,30 @@ File: ../toancuabi/pic//../mathc.pdf Graphic file (type pdf)
 <use ../toancuabi/pic//../mathc.pdf>
 File: ../toancuabi/pic//../tieude3.pdf Graphic file (type pdf)
 <use ../toancuabi/pic//../tieude3.pdf>
-File: ftoancuabi1.pdf Graphic file (type pdf)
-<use ftoancuabi1.pdf>
-File: ftoancuabi1.pdf Graphic file (type pdf)
-<use ftoancuabi1.pdf>
-File: ftoancuabi1.pdf Graphic file (type pdf)
-<use ftoancuabi1.pdf>
+File: ftoancuabi2.pdf Graphic file (type pdf)
+<use ftoancuabi2.pdf>
+File: ftoancuabi2.pdf Graphic file (type pdf)
+<use ftoancuabi2.pdf>
+File: ftoancuabi2.pdf Graphic file (type pdf)
+<use ftoancuabi2.pdf>
 
-[24])
-File: toancuabi2.pdf Graphic file (type pdf)
-<use toancuabi2.pdf>
-File: ftoancuabi2.pdf Graphic file (type pdf)
-<use ftoancuabi2.pdf>
-File: toancuabi2.pdf Graphic file (type pdf)
-<use toancuabi2.pdf>
-File: ftoancuabi2.pdf Graphic file (type pdf)
-<use ftoancuabi2.pdf>
-File: toancuabi2.pdf Graphic file (type pdf)
-<use toancuabi2.pdf>
-File: ftoancuabi2.pdf Graphic file (type pdf)
-<use ftoancuabi2.pdf>
- [25] (../thachthuctoanhoc/thachthuc2.tex
+[25])
+File: toancuabi1.pdf Graphic file (type pdf)
+<use toancuabi1.pdf>
+File: ftoancuabi1.pdf Graphic file (type pdf)
+<use ftoancuabi1.pdf>
+File: toancuabi1.pdf Graphic file (type pdf)
+<use toancuabi1.pdf>
+File: ftoancuabi1.pdf Graphic file (type pdf)
+<use ftoancuabi1.pdf>
+File: toancuabi1.pdf Graphic file (type pdf)
+<use toancuabi1.pdf>
+File: ftoancuabi1.pdf Graphic file (type pdf)
+<use ftoancuabi1.pdf>
+ [26]
+File: MV.pdf.pdf Graphic file (type pdf)
+<use MV.pdf.pdf>
+ [27] (../thachthuctoanhoc/thachthuc2.tex
 Package mdframed Info: mdframed works in twoside mode on input line 12.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -3730,85 +3733,45 @@ File: fthachthuc1.pdf Graphic file (type pdf)
 <use fthachthuc1.pdf>
 File: fthachthuc1.pdf Graphic file (type pdf)
 <use fthachthuc1.pdf>
-[26]
-Overfull \hbox (9.04323pt too wide) detected at line 112
+[28]
+Overfull \hbox (9.04323pt too wide) detected at line 111
 []
  []
 
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 122.
+(Font)              scaled to size 7.0pt on input line 120.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
 um;mapping=tex-text;" at 7.0pt
  -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
 nd/EBGaramond-Regular.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 []$[]\OML/ztmcm/m/it/12 b\OT1/ztmcm/m/n/12 )$[] \TU/EBGaramond(0)/m/n/12 Không 
 tồn tại $[]\OML/ztmcm/m/it/12 m$[] \TU/EBGaramond(0)/m/n/12 số thực dương
  []
 
 
-Overfull \hbox (1.03511pt too wide) in paragraph at lines 179--181
+Overfull \hbox (1.03511pt too wide) in paragraph at lines 177--179
  [][] 
  []
 
-File: thachthuc2.pdf Graphic file (type pdf)
-<use thachthuc2.pdf>
-File: fthachthuc2.pdf Graphic file (type pdf)
-<use fthachthuc2.pdf>
-File: thachthuc2.pdf Graphic file (type pdf)
-<use thachthuc2.pdf>
-File: fthachthuc2.pdf Graphic file (type pdf)
-<use fthachthuc2.pdf>
-File: thachthuc2.pdf Graphic file (type pdf)
-<use thachthuc2.pdf>
-File: fthachthuc2.pdf Graphic file (type pdf)
-<use fthachthuc2.pdf>
-[27]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 192.
+(Font)              scaled to size 14.4pt on input line 187.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
 um;mapping=tex-text;" at 14.4pt
  -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
 nd/EBGaramond-Regular.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 192.
+(Font)              scaled to size 14.4pt on input line 187.
 Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
 mapping=tex-text;" at 14.4pt
  -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
 nd/EBGaramond-Bold.otf
-File: thachthuc1.pdf Graphic file (type pdf)
-<use thachthuc1.pdf>
-File: fthachthuc1.pdf Graphic file (type pdf)
-<use fthachthuc1.pdf>
-File: thachthuc1.pdf Graphic file (type pdf)
-<use thachthuc1.pdf>
-File: fthachthuc1.pdf Graphic file (type pdf)
-<use fthachthuc1.pdf>
-File: thachthuc1.pdf Graphic file (type pdf)
-<use thachthuc1.pdf>
-File: fthachthuc1.pdf Graphic file (type pdf)
-<use fthachthuc1.pdf>
- [28]
-Requested font "zptmcm7t" at 5.0pt
-Requested font "zptmcm7m" at 5.0pt
-Requested font "zptmcm7y" at 5.0pt
-Requested font "zptmcm7v" at 5.0pt
-Requested font "ptmb7t" at 5.0pt
-Requested font "ptmri7t" at 5.0pt
-Requested font "msam10" at 5.0pt
-Requested font "msbm10" at 5.0pt
-Requested font "yhcmex10" at 5.0pt
-Requested font "rsfs5" at 5.0pt
 
-Overfull \hbox (6.11723pt too wide) detected at line 303
+Overfull \hbox (12.91135pt too wide) detected at line 203
 []
  []
 
-File: ../thachthuctoanhoc/pic//P663H1.png Graphic file (type bmp)
-<../thachthuctoanhoc/pic//P663H1.png>
-File: ../thachthuctoanhoc/pic//P663H2.png Graphic file (type bmp)
-<../thachthuctoanhoc/pic//P663H2.png>
 File: thachthuc2.pdf Graphic file (type pdf)
 <use thachthuc2.pdf>
 File: fthachthuc2.pdf Graphic file (type pdf)
@@ -3822,68 +3785,75 @@ File: thachthuc2.pdf Graphic file (type pdf)
 File: fthachthuc2.pdf Graphic file (type pdf)
 <use fthachthuc2.pdf>
 [29]
-File: thachthuc1.pdf Graphic file (type pdf)
-<use thachthuc1.pdf>
-File: fthachthuc1.pdf Graphic file (type pdf)
-<use fthachthuc1.pdf>
-File: thachthuc1.pdf Graphic file (type pdf)
-<use thachthuc1.pdf>
-File: fthachthuc1.pdf Graphic file (type pdf)
-<use fthachthuc1.pdf>
-File: thachthuc1.pdf Graphic file (type pdf)
-<use thachthuc1.pdf>
-File: fthachthuc1.pdf Graphic file (type pdf)
-<use fthachthuc1.pdf>
- [30]
-Overfull \hbox (3.77242pt too wide) detected at line 463
+Overfull \hbox (5.51537pt too wide) detected at line 292
 []
  []
 
+Requested font "zptmcm7t" at 5.0pt
+Requested font "zptmcm7m" at 5.0pt
+Requested font "zptmcm7y" at 5.0pt
+Requested font "zptmcm7v" at 5.0pt
+Requested font "ptmb7t" at 5.0pt
+Requested font "ptmri7t" at 5.0pt
+Requested font "msam10" at 5.0pt
+Requested font "msbm10" at 5.0pt
+Requested font "yhcmex10" at 5.0pt
+Requested font "rsfs5" at 5.0pt
+
+Overfull \hbox (4.9083pt too wide) detected at line 298
+[]
+ []
+
+File: thachthuc1.pdf Graphic file (type pdf)
+<use thachthuc1.pdf>
+File: fthachthuc1.pdf Graphic file (type pdf)
+<use fthachthuc1.pdf>
+File: thachthuc1.pdf Graphic file (type pdf)
+<use thachthuc1.pdf>
+File: fthachthuc1.pdf Graphic file (type pdf)
+<use fthachthuc1.pdf>
+File: thachthuc1.pdf Graphic file (type pdf)
+<use thachthuc1.pdf>
+File: fthachthuc1.pdf Graphic file (type pdf)
+<use fthachthuc1.pdf>
+[30]
+File: thachthuc2.pdf Graphic file (type pdf)
+<use thachthuc2.pdf>
+File: fthachthuc2.pdf Graphic file (type pdf)
+<use fthachthuc2.pdf>
+File: thachthuc2.pdf Graphic file (type pdf)
+<use thachthuc2.pdf>
+File: fthachthuc2.pdf Graphic file (type pdf)
+<use fthachthuc2.pdf>
+File: thachthuc2.pdf Graphic file (type pdf)
+<use thachthuc2.pdf>
+File: fthachthuc2.pdf Graphic file (type pdf)
+<use fthachthuc2.pdf>
+ [31]
+Overfull \hbox (3.77242pt too wide) detected at line 498
+[]
+ []
+
+File: thachthuc1.pdf Graphic file (type pdf)
+<use thachthuc1.pdf>
+File: fthachthuc1.pdf Graphic file (type pdf)
+<use fthachthuc1.pdf>
+File: thachthuc1.pdf Graphic file (type pdf)
+<use thachthuc1.pdf>
+File: fthachthuc1.pdf Graphic file (type pdf)
+<use fthachthuc1.pdf>
+File: thachthuc1.pdf Graphic file (type pdf)
+<use thachthuc1.pdf>
+File: fthachthuc1.pdf Graphic file (type pdf)
+<use fthachthuc1.pdf>
+[32]
 Missing character: There is no ó in font zptmcm7m!
-File: ../thachthuctoanhoc/pic//P665H1.png Graphic file (type bmp)
-<../thachthuctoanhoc/pic//P665H1.png>
-File: thachthuc2.pdf Graphic file (type pdf)
-<use thachthuc2.pdf>
-File: fthachthuc2.pdf Graphic file (type pdf)
-<use fthachthuc2.pdf>
-File: thachthuc2.pdf Graphic file (type pdf)
-<use thachthuc2.pdf>
-File: fthachthuc2.pdf Graphic file (type pdf)
-<use fthachthuc2.pdf>
-File: thachthuc2.pdf Graphic file (type pdf)
-<use thachthuc2.pdf>
-File: fthachthuc2.pdf Graphic file (type pdf)
-<use fthachthuc2.pdf>
-[31]
-File: ../thachthuctoanhoc/pic//P665H2.png Graphic file (type bmp)
-<../thachthuctoanhoc/pic//P665H2.png>
-File: thachthuc1.pdf Graphic file (type pdf)
-<use thachthuc1.pdf>
-File: fthachthuc1.pdf Graphic file (type pdf)
-<use fthachthuc1.pdf>
-File: thachthuc1.pdf Graphic file (type pdf)
-<use thachthuc1.pdf>
-File: fthachthuc1.pdf Graphic file (type pdf)
-<use fthachthuc1.pdf>
-File: thachthuc1.pdf Graphic file (type pdf)
-<use thachthuc1.pdf>
-File: fthachthuc1.pdf Graphic file (type pdf)
-<use fthachthuc1.pdf>
- [32]
-File: ../thachthuctoanhoc/pic//P666H1.png Graphic file (type bmp)
-<../thachthuctoanhoc/pic//P666H1.png>
 
-Overfull \hbox (4.5662pt too wide) detected at line 618
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 627--628
+[]\OML/ztmcm/m/it/12 MA; MB \OMS/ztmcm/m/n/12 ^^T \OML/ztmcm/m/it/12 MC$[]\TU/E
+BGaramond(0)/m/n/12 . Vì thế, theo Bổ đề,
  []
 
-
-Overfull \hbox (1.24242pt too wide) detected at line 623
-[]
- []
-
-File: ../thachthuctoanhoc/pic//P666H2.png Graphic file (type bmp)
-<../thachthuctoanhoc/pic//P666H2.png>
 File: thachthuc2.pdf Graphic file (type pdf)
 <use thachthuc2.pdf>
 File: fthachthuc2.pdf Graphic file (type pdf)
@@ -3897,20 +3867,12 @@ File: thachthuc2.pdf Graphic file (type pdf)
 File: fthachthuc2.pdf Graphic file (type pdf)
 <use fthachthuc2.pdf>
 [33]
-Missing character: There is no … in font zptmcm7t!
-
-Overfull \hbox (15.176pt too wide) detected at line 731
+Overfull \hbox (4.5662pt too wide) detected at line 739
 []
  []
 
 
-Overfull \hbox (23.15053pt too wide) in paragraph at lines 749--750
-[]\TU/EBGaramond(0)/m/n/12 Khi đó, $[][] \OT1/ztmcm/m/n/12 = [] \OML/ztmcm/m/it
-/12 :$[]
- []
-
-
-Overfull \hbox (1.23068pt too wide) detected at line 752
+Overfull \hbox (1.24242pt too wide) detected at line 744
 []
  []
 
@@ -3927,26 +3889,6 @@ File: thachthuc1.pdf Graphic file (type pdf)
 File: fthachthuc1.pdf Graphic file (type pdf)
 <use fthachthuc1.pdf>
 [34]
-Missing character: There is no … in font zptmcm7t!
-
-Overfull \hbox (1.23068pt too wide) detected at line 760
-[]
- []
-
-Missing character: There is no … in font zptmcm7t!
-
-Overfull \hbox (1.23068pt too wide) detected at line 764
-[]
- []
-
-Missing character: There is no … in font zptmcm7t!
-
-Overfull \hbox (15.176pt too wide) detected at line 784
-[]
- []
-
-File: ../thachthuctoanhoc/pic//P669.png Graphic file (type bmp)
-<../thachthuctoanhoc/pic//P669.png>
 File: thachthuc2.pdf Graphic file (type pdf)
 <use thachthuc2.pdf>
 File: fthachthuc2.pdf Graphic file (type pdf)
@@ -3959,25 +3901,75 @@ File: thachthuc2.pdf Graphic file (type pdf)
 <use thachthuc2.pdf>
 File: fthachthuc2.pdf Graphic file (type pdf)
 <use fthachthuc2.pdf>
-[35]
-Underfull \hbox (badness 5756) in paragraph at lines 834--836
+ [35]
+Overfull \hbox (13.81734pt too wide) in paragraph at lines 888--889
+[]\TU/EBGaramond(0)/m/n/12 Khi đó, $[][]  \OT1/ztmcm/m/n/12 =  []  \OML/ztmcm/m
+/it/12 :$[]
+ []
+
+
+Overfull \hbox (1.23068pt too wide) detected at line 891
+[]
+ []
+
+
+Overfull \hbox (1.23068pt too wide) detected at line 899
+[]
+ []
+
+
+Overfull \hbox (1.23068pt too wide) detected at line 903
+[]
+ []
+
+
+Overfull \hbox (1.84286pt too wide) detected at line 923
+[]
+ []
+
+File: thachthuc1.pdf Graphic file (type pdf)
+<use thachthuc1.pdf>
+File: fthachthuc1.pdf Graphic file (type pdf)
+<use fthachthuc1.pdf>
+File: thachthuc1.pdf Graphic file (type pdf)
+<use thachthuc1.pdf>
+File: fthachthuc1.pdf Graphic file (type pdf)
+<use fthachthuc1.pdf>
+File: thachthuc1.pdf Graphic file (type pdf)
+<use thachthuc1.pdf>
+File: fthachthuc1.pdf Graphic file (type pdf)
+<use fthachthuc1.pdf>
+[36]
+Underfull \hbox (badness 5756) in paragraph at lines 1038--1040
 \TU/EBGaramond(0)/m/n/12 theo chứng minh trên), nên $[]\OT1/ztmcm/m/n/12 ^^A\OM
 L/ztmcm/m/it/12 KHT \OMS/ztmcm/m/n/12 ^^X
  []
 
 
-Overfull \hbox (13.33478pt too wide) detected at line 842
+Overfull \hbox (13.33478pt too wide) detected at line 1046
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 842--844
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1048
 \TU/EBGaramond(0)/m/n/12 Suy ra, $[]\OML/ztmcm/m/it/12 TH\OMS/ztmcm/m/n/12 ?\OM
 L/ztmcm/m/it/12 ND$[]\TU/EBGaramond(0)/m/n/12 . Mà $[]\OML/ztmcm/m/it/12 NH\OMS
 /ztmcm/m/n/12 ?\OML/ztmcm/m/it/12 TD$[] \TU/EBGaramond(0)/m/n/12 (do
  []
 
-)
+File: thachthuc2.pdf Graphic file (type pdf)
+<use thachthuc2.pdf>
+File: fthachthuc2.pdf Graphic file (type pdf)
+<use fthachthuc2.pdf>
+File: thachthuc2.pdf Graphic file (type pdf)
+<use thachthuc2.pdf>
+File: fthachthuc2.pdf Graphic file (type pdf)
+<use fthachthuc2.pdf>
+File: thachthuc2.pdf Graphic file (type pdf)
+<use thachthuc2.pdf>
+File: fthachthuc2.pdf Graphic file (type pdf)
+<use fthachthuc2.pdf>
+[37]
 File: thachthuc1.pdf Graphic file (type pdf)
 <use thachthuc1.pdf>
 File: fthachthuc1.pdf Graphic file (type pdf)
@@ -3990,205 +3982,7 @@ File: thachthuc1.pdf Graphic file (type pdf)
 <use thachthuc1.pdf>
 File: fthachthuc1.pdf Graphic file (type pdf)
 <use fthachthuc1.pdf>
- [36] (../hoccungpi/hoccungpi.tex
-Package mdframed Info: mdframed works in twoside mode on input line 29.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 29.
-File: ../hoccungpi/pic//../bannerhoccungpi.jpg Graphic file (type bmp)
-<../hoccungpi/pic//../bannerhoccungpi.jpg>
-File: ../hoccungpi/pic//../tieude.pdf Graphic file (type pdf)
-<use ../hoccungpi/pic//../tieude.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
- [37]
-Package mdframed Info: mdframed works in twoside mode on input line 69.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 69.
-Package mdframed Info: mdframed works in twoside mode on input line 83.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 83.
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
- [38]
-Overfull \hbox (4.14365pt too wide) detected at line 186
-[]
- []
-
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-[39]
-Overfull \hbox (22.67566pt too wide) detected at line 255
-[]
- []
-
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
-[40]
-Overfull \hbox (6.27232pt too wide) detected at line 312
-[]
- []
-
-
-Overfull \hbox (2.38242pt too wide) detected at line 316
-[]
- []
-
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-[41]
-Overfull \hbox (8.0619pt too wide) detected at line 370
-[]
- []
-
-
-Overfull \hbox (8.73398pt too wide) detected at line 374
-[]
- []
-
-
-Overfull \hbox (5.24074pt too wide) detected at line 403
-[]
- []
-
-
-Package amsmath Warning: Foreign command \atopwithdelims;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 424.
-
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
-[42]
-Overfull \hbox (3.92212pt too wide) detected at line 443
-[]
- []
-
-
-Overfull \hbox (1.13135pt too wide) detected at line 490
-[]
- []
-
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-[43]
-Overfull \hbox (11.21928pt too wide) detected at line 516
-[]
- []
-
-
-Overfull \hbox (10.94376pt too wide) detected at line 520
-[]
- []
-
-
-Overfull \hbox (4.9764pt too wide) detected at line 550
-[]
- []
-
-
-Underfull \hbox (badness 7704) in paragraph at lines 554--556
-\TU/EBGaramond(0)/m/n/12 với đa thức $[]\OML/ztmcm/m/it/12 B\OT1/ztmcm/m/n/12 (
-\OML/ztmcm/m/it/12 x\OT1/ztmcm/m/n/12 ) = \OML/ztmcm/m/it/12 b[] \OT1/ztmcm/m/n
-/12 + \OML/ztmcm/m/it/12 b[]x \OT1/ztmcm/m/n/12 + [] +
- []
-
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
-File: hoccungpi1.pdf Graphic file (type pdf)
-<use hoccungpi1.pdf>
-File: fhoccungpi1.pdf Graphic file (type pdf)
-<use fhoccungpi1.pdf>
-[44]
-Overfull \hbox (7.81963pt too wide) detected at line 615
-[]
- []
-
-)
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
-File: hoccungpi2.pdf Graphic file (type pdf)
-<use hoccungpi2.pdf>
-File: fhoccungpi2.pdf Graphic file (type pdf)
-<use fhoccungpi2.pdf>
- [45] (../cackithi/cackithi.tex
+ [38]) (../cackithi/cackithi.tex
 File: ../cackithi/pic//1.png Graphic file (type bmp)
 <../cackithi/pic//1.png>
 
@@ -4212,55 +4006,35 @@ File: ../cackithi/pic//../bannercackithi.jpg Graphic file (type bmp)
 <../cackithi/pic//../bannercackithi.jpg>
 File: ../cackithi/pic//../tieude.pdf Graphic file (type pdf)
 <use ../cackithi/pic//../tieude.pdf>
-File: fcackithi1.pdf Graphic file (type pdf)
-<use fcackithi1.pdf>
-File: fcackithi1.pdf Graphic file (type pdf)
-<use fcackithi1.pdf>
-File: fcackithi1.pdf Graphic file (type pdf)
-<use fcackithi1.pdf>
-[46]
+File: fcackithi2.pdf Graphic file (type pdf)
+<use fcackithi2.pdf>
+File: fcackithi2.pdf Graphic file (type pdf)
+<use fcackithi2.pdf>
+File: fcackithi2.pdf Graphic file (type pdf)
+<use fcackithi2.pdf>
+[39]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 47 might be wrong on input line 56.
+(multicol)                Footnotes on page 40 might be wrong on input line 61.
 
 
 
 Overfull \vbox (14.62634pt too high) has occurred while \output is active []
 
-File: cackithi2.pdf Graphic file (type pdf)
-<use cackithi2.pdf>
-File: fcackithi2.pdf Graphic file (type pdf)
-<use fcackithi2.pdf>
-File: cackithi2.pdf Graphic file (type pdf)
-<use cackithi2.pdf>
-File: fcackithi2.pdf Graphic file (type pdf)
-<use fcackithi2.pdf>
-File: cackithi2.pdf Graphic file (type pdf)
-<use cackithi2.pdf>
-File: fcackithi2.pdf Graphic file (type pdf)
-<use fcackithi2.pdf>
+File: cackithi1.pdf Graphic file (type pdf)
+<use cackithi1.pdf>
+File: fcackithi1.pdf Graphic file (type pdf)
+<use fcackithi1.pdf>
+File: cackithi1.pdf Graphic file (type pdf)
+<use cackithi1.pdf>
+File: fcackithi1.pdf Graphic file (type pdf)
+<use fcackithi1.pdf>
+File: cackithi1.pdf Graphic file (type pdf)
+<use cackithi1.pdf>
+File: fcackithi1.pdf Graphic file (type pdf)
+<use fcackithi1.pdf>
 
-[47]
-Overfull \hbox (1.86241pt too wide) in paragraph at lines 90--91
-[][]\TU/EBGaramond(0)/b/n/12 Lớp[] $[][]$[] \TU/EBGaramond(0)/m/n/12 Trên bảng 
-viết các số $[]\OT1/ztmcm/m/n/12 2\OML/ztmcm/m/it/12 ; \OT1/ztmcm/m/n/12 3\OML/
-ztmcm/m/it/12 ; \OT1/ztmcm/m/n/12 4\OML/ztmcm/m/it/12 ; :::; \OT1/ztmcm/m/n/12 
-29\OML/ztmcm/m/it/12 ; \OT1/ztmcm/m/n/12 30$[]\TU/EBGaramond(0)/m/n/12 .
- []
-
-File: cackithi1.pdf Graphic file (type pdf)
-<use cackithi1.pdf>
-File: fcackithi1.pdf Graphic file (type pdf)
-<use fcackithi1.pdf>
-File: cackithi1.pdf Graphic file (type pdf)
-<use cackithi1.pdf>
-File: fcackithi1.pdf Graphic file (type pdf)
-<use fcackithi1.pdf>
-File: cackithi1.pdf Graphic file (type pdf)
-<use cackithi1.pdf>
-File: fcackithi1.pdf Graphic file (type pdf)
-<use fcackithi1.pdf>
-[48]
+[40]
 Overfull \hbox (4.71628pt too wide) in paragraph at lines 119--120
 []\TU/EBGaramond(0)/m/n/12 [$[]\OT1/ztmcm/m/n/12 1$[]\TU/EBGaramond(0)/m/n/12 ]
  $[]\OT1/ztmcm/m/n/12 60$[]\TU/EBGaramond(0)/m/n/12 –odd YEARS of Moscow Mathem
@@ -4295,7 +4069,7 @@ File: cackithi2.pdf Graphic file (type pdf)
 <use cackithi2.pdf>
 File: fcackithi2.pdf Graphic file (type pdf)
 <use fcackithi2.pdf>
-[49]
+[41]
 File: ../cackithi/pic//gocolympic.pdf Graphic file (type pdf)
 <use ../cackithi/pic//gocolympic.pdf>
 
@@ -4319,7 +4093,7 @@ File: cackithi1.pdf Graphic file (type pdf)
 <use cackithi1.pdf>
 File: fcackithi1.pdf Graphic file (type pdf)
 <use fcackithi1.pdf>
-[50]
+[42]
 Overfull \hbox (0.40907pt too wide) detected at line 223
 []
  []
@@ -4343,128 +4117,7 @@ File: cackithi2.pdf Graphic file (type pdf)
 <use cackithi2.pdf>
 File: fcackithi2.pdf Graphic file (type pdf)
 <use fcackithi2.pdf>
- [51] (../lichsutoanhoc/lichsutoanhoc2.tex
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-[]\TU/EBGaramond(0)/m/n/12 Lý thuyết nguyên tử hình học của
- []
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 52 might be wrong on input line 26.
-
-
-
-Overfull \vbox (11.62634pt too high) has occurred while \output is active []
-
-File: ../lichsutoanhoc/pic2//../bannerlichsu.jpg Graphic file (type bmp)
-<../lichsutoanhoc/pic2//../bannerlichsu.jpg>
-File: ../lichsutoanhoc/pic2//../tieude3.pdf Graphic file (type pdf)
-<use ../lichsutoanhoc/pic2//../tieude3.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
-
-[52]
-File: lichsu2.pdf Graphic file (type pdf)
-<use lichsu2.pdf>
-File: flichsu2.pdf Graphic file (type pdf)
-<use flichsu2.pdf>
-File: lichsu2.pdf Graphic file (type pdf)
-<use lichsu2.pdf>
-File: flichsu2.pdf Graphic file (type pdf)
-<use flichsu2.pdf>
-File: lichsu2.pdf Graphic file (type pdf)
-<use lichsu2.pdf>
-File: flichsu2.pdf Graphic file (type pdf)
-<use flichsu2.pdf>
- [53]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 54 might be wrong on input line 83.
-
-
-
-Overfull \vbox (14.62634pt too high) has occurred while \output is active []
-
-File: lichsu1.pdf Graphic file (type pdf)
-<use lichsu1.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
-File: lichsu1.pdf Graphic file (type pdf)
-<use lichsu1.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
-File: lichsu1.pdf Graphic file (type pdf)
-<use lichsu1.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
-
-[54]
-File: ../lichsutoanhoc/pic2//1.jpg Graphic file (type bmp)
-<../lichsutoanhoc/pic2//1.jpg>
-File: lichsu2.pdf Graphic file (type pdf)
-<use lichsu2.pdf>
-File: flichsu2.pdf Graphic file (type pdf)
-<use flichsu2.pdf>
-File: lichsu2.pdf Graphic file (type pdf)
-<use lichsu2.pdf>
-File: flichsu2.pdf Graphic file (type pdf)
-<use flichsu2.pdf>
-File: lichsu2.pdf Graphic file (type pdf)
-<use lichsu2.pdf>
-File: flichsu2.pdf Graphic file (type pdf)
-<use flichsu2.pdf>
- [55]
-Overfull \hbox (2.74pt too wide) in paragraph at lines 137--138
- [][] 
- []
-
-File: lichsu1.pdf Graphic file (type pdf)
-<use lichsu1.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
-File: lichsu1.pdf Graphic file (type pdf)
-<use lichsu1.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
-File: lichsu1.pdf Graphic file (type pdf)
-<use lichsu1.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
-[56]
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
-[]\TU/EBGaramond(0)/m/n/12 Một vài năm sau Dinostratus và
- []
-
-File: lichsu2.pdf Graphic file (type pdf)
-<use lichsu2.pdf>
-File: flichsu2.pdf Graphic file (type pdf)
-<use flichsu2.pdf>
-File: lichsu2.pdf Graphic file (type pdf)
-<use lichsu2.pdf>
-File: flichsu2.pdf Graphic file (type pdf)
-<use flichsu2.pdf>
-File: lichsu2.pdf Graphic file (type pdf)
-<use lichsu2.pdf>
-File: flichsu2.pdf Graphic file (type pdf)
-<use flichsu2.pdf>
-[57]
-File: lichsu1.pdf Graphic file (type pdf)
-<use lichsu1.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
-File: lichsu1.pdf Graphic file (type pdf)
-<use lichsu1.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
-File: lichsu1.pdf Graphic file (type pdf)
-<use lichsu1.pdf>
-File: flichsu1.pdf Graphic file (type pdf)
-<use flichsu1.pdf>
- [58]) (../doisongtoanhoc/doisongtoanhoc.tex
+ [43] (../doisongtoanhoc/doisongtoanhoc.tex
 File: ../doisongtoanhoc/pic//1.jpg Graphic file (type bmp)
 <../doisongtoanhoc/pic//1.jpg>
 File: ../doisongtoanhoc/pic//2.jpg Graphic file (type bmp)
@@ -4472,7 +4125,7 @@ File: ../doisongtoanhoc/pic//2.jpg Graphic file (type bmp)
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 59 might be wrong on input line 37.
+(multicol)                Footnotes on page 44 might be wrong on input line 37.
 
 
 
@@ -4482,30 +4135,30 @@ File: ../doisongtoanhoc/pic//../bannerdoisong.jpg Graphic file (type bmp)
 <../doisongtoanhoc/pic//../bannerdoisong.jpg>
 File: ../doisongtoanhoc/pic//../tieude.pdf Graphic file (type pdf)
 <use ../doisongtoanhoc/pic//../tieude.pdf>
-File: fdstoanhoc2.pdf Graphic file (type pdf)
-<use fdstoanhoc2.pdf>
-File: fdstoanhoc2.pdf Graphic file (type pdf)
-<use fdstoanhoc2.pdf>
-File: fdstoanhoc2.pdf Graphic file (type pdf)
-<use fdstoanhoc2.pdf>
+File: fdstoanhoc1.pdf Graphic file (type pdf)
+<use fdstoanhoc1.pdf>
+File: fdstoanhoc1.pdf Graphic file (type pdf)
+<use fdstoanhoc1.pdf>
+File: fdstoanhoc1.pdf Graphic file (type pdf)
+<use fdstoanhoc1.pdf>
 
-[59])
-File: dstoanhoc1.pdf Graphic file (type pdf)
-<use dstoanhoc1.pdf>
-File: fdstoanhoc1.pdf Graphic file (type pdf)
-<use fdstoanhoc1.pdf>
-File: dstoanhoc1.pdf Graphic file (type pdf)
-<use dstoanhoc1.pdf>
-File: fdstoanhoc1.pdf Graphic file (type pdf)
-<use fdstoanhoc1.pdf>
-File: dstoanhoc1.pdf Graphic file (type pdf)
-<use dstoanhoc1.pdf>
-File: fdstoanhoc1.pdf Graphic file (type pdf)
-<use fdstoanhoc1.pdf>
- [60] (../timhieukhoahoc/timhieukhoahoc.tex
+[44])
+File: dstoanhoc2.pdf Graphic file (type pdf)
+<use dstoanhoc2.pdf>
+File: fdstoanhoc2.pdf Graphic file (type pdf)
+<use fdstoanhoc2.pdf>
+File: dstoanhoc2.pdf Graphic file (type pdf)
+<use dstoanhoc2.pdf>
+File: fdstoanhoc2.pdf Graphic file (type pdf)
+<use fdstoanhoc2.pdf>
+File: dstoanhoc2.pdf Graphic file (type pdf)
+<use dstoanhoc2.pdf>
+File: fdstoanhoc2.pdf Graphic file (type pdf)
+<use fdstoanhoc2.pdf>
+ [45] (../timhieukhoahoc/timhieukhoahoc.tex
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 61 might be wrong on input line 25.
+(multicol)                Footnotes on page 46 might be wrong on input line 25.
 
 
 
@@ -4515,31 +4168,31 @@ File: ../timhieukhoahoc/pic2//../bannertimhieu.jpg Graphic file (type bmp)
 <../timhieukhoahoc/pic2//../bannertimhieu.jpg>
 File: ../timhieukhoahoc/pic2//../tieude.pdf Graphic file (type pdf)
 <use ../timhieukhoahoc/pic2//../tieude.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
 
-[61]
+[46]
 File: ../timhieukhoahoc/pic2//1.jpg Graphic file (type bmp)
 <../timhieukhoahoc/pic2//1.jpg>
 File: ../timhieukhoahoc/pic2//2.png Graphic file (type bmp)
 <../timhieukhoahoc/pic2//2.png>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
- [62]
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+ [47]
 File: ../timhieukhoahoc/pic2//3.png Graphic file (type bmp)
 <../timhieukhoahoc/pic2//3.png>
 
@@ -4551,36 +4204,36 @@ File: ../timhieukhoahoc/pic2//4.png Graphic file (type bmp)
 <../timhieukhoahoc/pic2//4.png>
 File: ../timhieukhoahoc/pic2//5.png Graphic file (type bmp)
 <../timhieukhoahoc/pic2//5.png>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-[63]
+File: timhieu1.pdf Graphic file (type pdf)
+<use timhieu1.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
+File: timhieu1.pdf Graphic file (type pdf)
+<use timhieu1.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
+File: timhieu1.pdf Graphic file (type pdf)
+<use timhieu1.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
+[48]
 File: ../timhieukhoahoc/pic2//6.jpg Graphic file (type bmp)
 <../timhieukhoahoc/pic2//6.jpg>
 File: ../timhieukhoahoc/pic2//7.png Graphic file (type bmp)
 <../timhieukhoahoc/pic2//7.png>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
- [64]
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+ [49]
 File: ../timhieukhoahoc/pic2//8.jpg Graphic file (type bmp)
 <../timhieukhoahoc/pic2//8.jpg>
 File: ../timhieukhoahoc/pic2//9.png Graphic file (type bmp)
@@ -4592,19 +4245,19 @@ Overfull \hbox (1.6797pt too wide) in paragraph at lines 121--122
 
 File: ../timhieukhoahoc/pic2//10.jpg Graphic file (type bmp)
 <../timhieukhoahoc/pic2//10.jpg>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-[65]
+File: timhieu1.pdf Graphic file (type pdf)
+<use timhieu1.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
+File: timhieu1.pdf Graphic file (type pdf)
+<use timhieu1.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
+File: timhieu1.pdf Graphic file (type pdf)
+<use timhieu1.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
+[50]
 File: ../timhieukhoahoc/pic2//11.jpg Graphic file (type bmp)
 <../timhieukhoahoc/pic2//11.jpg>
 
@@ -4612,34 +4265,34 @@ Overfull \hbox (1.6797pt too wide) in paragraph at lines 147--148
 [][] 
  []
 
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-[66]
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+[51]
 File: ../timhieukhoahoc/pic2//12.png Graphic file (type bmp)
 <../timhieukhoahoc/pic2//12.png>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
-File: timhieu2.pdf Graphic file (type pdf)
-<use timhieu2.pdf>
-File: ftimhieu2.pdf Graphic file (type pdf)
-<use ftimhieu2.pdf>
- [67]
+File: timhieu1.pdf Graphic file (type pdf)
+<use timhieu1.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
+File: timhieu1.pdf Graphic file (type pdf)
+<use timhieu1.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
+File: timhieu1.pdf Graphic file (type pdf)
+<use timhieu1.pdf>
+File: ftimhieu1.pdf Graphic file (type pdf)
+<use ftimhieu1.pdf>
+ [52]
 Overfull \hbox (6.8248pt too wide) detected at line 245
 []
  []
@@ -4666,25 +4319,146 @@ Underfull \hbox (badness 10000) in paragraph at lines 283--284
  []
 
 )
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
-File: timhieu1.pdf Graphic file (type pdf)
-<use timhieu1.pdf>
-File: ftimhieu1.pdf Graphic file (type pdf)
-<use ftimhieu1.pdf>
- [68] (../gocco/gocco.tex
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+File: timhieu2.pdf Graphic file (type pdf)
+<use timhieu2.pdf>
+File: ftimhieu2.pdf Graphic file (type pdf)
+<use ftimhieu2.pdf>
+ [53] (../lichsutoanhoc/lichsutoanhoc2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+[]\TU/EBGaramond(0)/m/n/12 Lý thuyết nguyên tử hình học của
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 54 might be wrong on input line 26.
+
+
+
+Overfull \vbox (11.62634pt too high) has occurred while \output is active []
+
+File: ../lichsutoanhoc/pic2//../bannerlichsu.jpg Graphic file (type bmp)
+<../lichsutoanhoc/pic2//../bannerlichsu.jpg>
+File: ../lichsutoanhoc/pic2//../tieude3.pdf Graphic file (type pdf)
+<use ../lichsutoanhoc/pic2//../tieude3.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+
+[54]
+File: lichsu2.pdf Graphic file (type pdf)
+<use lichsu2.pdf>
+File: flichsu2.pdf Graphic file (type pdf)
+<use flichsu2.pdf>
+File: lichsu2.pdf Graphic file (type pdf)
+<use lichsu2.pdf>
+File: flichsu2.pdf Graphic file (type pdf)
+<use flichsu2.pdf>
+File: lichsu2.pdf Graphic file (type pdf)
+<use lichsu2.pdf>
+File: flichsu2.pdf Graphic file (type pdf)
+<use flichsu2.pdf>
+ [55]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 56 might be wrong on input line 83.
+
+
+
+Overfull \vbox (14.62634pt too high) has occurred while \output is active []
+
+File: lichsu1.pdf Graphic file (type pdf)
+<use lichsu1.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+File: lichsu1.pdf Graphic file (type pdf)
+<use lichsu1.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+File: lichsu1.pdf Graphic file (type pdf)
+<use lichsu1.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+
+[56]
+File: ../lichsutoanhoc/pic2//1.jpg Graphic file (type bmp)
+<../lichsutoanhoc/pic2//1.jpg>
+File: lichsu2.pdf Graphic file (type pdf)
+<use lichsu2.pdf>
+File: flichsu2.pdf Graphic file (type pdf)
+<use flichsu2.pdf>
+File: lichsu2.pdf Graphic file (type pdf)
+<use lichsu2.pdf>
+File: flichsu2.pdf Graphic file (type pdf)
+<use flichsu2.pdf>
+File: lichsu2.pdf Graphic file (type pdf)
+<use lichsu2.pdf>
+File: flichsu2.pdf Graphic file (type pdf)
+<use flichsu2.pdf>
+ [57]
+Overfull \hbox (2.74pt too wide) in paragraph at lines 137--138
+ [][] 
+ []
+
+File: lichsu1.pdf Graphic file (type pdf)
+<use lichsu1.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+File: lichsu1.pdf Graphic file (type pdf)
+<use lichsu1.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+File: lichsu1.pdf Graphic file (type pdf)
+<use lichsu1.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+[]\TU/EBGaramond(0)/m/n/12 Một vài năm sau Dinostratus và
+ []
+
+File: lichsu2.pdf Graphic file (type pdf)
+<use lichsu2.pdf>
+File: flichsu2.pdf Graphic file (type pdf)
+<use flichsu2.pdf>
+File: lichsu2.pdf Graphic file (type pdf)
+<use lichsu2.pdf>
+File: flichsu2.pdf Graphic file (type pdf)
+<use flichsu2.pdf>
+File: lichsu2.pdf Graphic file (type pdf)
+<use lichsu2.pdf>
+File: flichsu2.pdf Graphic file (type pdf)
+<use flichsu2.pdf>
+[59]
+File: lichsu1.pdf Graphic file (type pdf)
+<use lichsu1.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+File: lichsu1.pdf Graphic file (type pdf)
+<use lichsu1.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+File: lichsu1.pdf Graphic file (type pdf)
+<use lichsu1.pdf>
+File: flichsu1.pdf Graphic file (type pdf)
+<use flichsu1.pdf>
+ [60]) (../gocco/gocco.tex
 File: ../gocco/pic//1.png Graphic file (type bmp)
 <../gocco/pic//1.png>
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 69 might be wrong on input line 42.
+(multicol)                Footnotes on page 61 might be wrong on input line 42.
 
 
 
@@ -4701,7 +4475,7 @@ File: fgocco2.pdf Graphic file (type pdf)
 File: fgocco2.pdf Graphic file (type pdf)
 <use fgocco2.pdf>
 
-[69]
+[61]
 File: ../gocco/pic//2.png Graphic file (type bmp)
 <../gocco/pic//2.png>
 File: ../gocco/pic//3.png Graphic file (type bmp)
@@ -4718,11 +4492,12 @@ File: gocco1.pdf Graphic file (type pdf)
 <use gocco1.pdf>
 File: fgocco1.pdf Graphic file (type pdf)
 <use fgocco1.pdf>
- [70]
+ [62]
 File: ../gocco/pic//4.png Graphic file (type bmp)
 <../gocco/pic//4.png>
 File: ../gocco/pic//5.png Graphic file (type bmp)
 <../gocco/pic//5.png>
+)
 File: gocco2.pdf Graphic file (type pdf)
 <use gocco2.pdf>
 File: fgocco2.pdf Graphic file (type pdf)
@@ -4735,7 +4510,7 @@ File: gocco2.pdf Graphic file (type pdf)
 <use gocco2.pdf>
 File: fgocco2.pdf Graphic file (type pdf)
 <use fgocco2.pdf>
- [71]) (_main.aux)
+ [63] (_main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -4746,12 +4521,12 @@ Package logreq Info: Writing requests to '_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 71252 strings out of 410969
- 1633912 string characters out of 2823810
- 2661130 words of memory out of 3000000
- 90591 multiletter control sequences out of 15000+600000
+ 71157 strings out of 410969
+ 1631207 string characters out of 2823810
+ 2665915 words of memory out of 3000000
+ 90506 multiletter control sequences out of 15000+600000
  513662 words of font info for 155 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,16n,120p,1716b,1197s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 104i,14n,120p,1716b,1197s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on _main.pdf (71 pages).
+Output written on _main.pdf (62 pages).
